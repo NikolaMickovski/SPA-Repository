@@ -1,0 +1,35 @@
+﻿@*@model System.Collections.Generic.IEnumerable<Registar.BusinessLayer.Contracts.BikeSearchResult>*@
+
+
+@*noviot model ke bide Lista od Bikes*@
+@model List<Registar.DomainModel.Bike>
+@{
+    Layout = "../MasterPage.cshtml";
+}
+
+@section HeaderScripts
+{
+    <script type="text/javascript"></script>  
+    bla bla  
+}
+@this.Html.Partial("_PartialView")
+
+<table>
+    <tbody>
+        @foreach (var bike in this.Model)
+        {
+            <tr>
+                
+                
+
+                <td>@bike.BikeId</td>
+                <td>@bike.RegNumber</td>
+                <td>@bike.Producer</td>
+                <td>@bike.Model</td>
+                <td>@bike.Colour</td>
+                <td>@this.ViewBag.SomeNewProperty</td>
+            </tr>                    
+        }
+
+    </tbody>
+</table>

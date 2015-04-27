@@ -1,0 +1,10 @@
+D:\Downloads\svs-talent-2015-master\svs-talent-2015-master\04-SPA\Project\Registar\Registar.DomainModel\obj\Debug\Registar.DomainModel.csprojResolveAssemblyReference.cache
+D:\Downloads\svs-talent-2015-master\svs-talent-2015-master\04-SPA\Project\Registar\Registar.DomainModel\bin\Debug\Registar.DomainModel.dll.config
+D:\Downloads\svs-talent-2015-master\svs-talent-2015-master\04-SPA\Project\Registar\Registar.DomainModel\bin\Debug\Registar.DomainModel.dll
+D:\Downloads\svs-talent-2015-master\svs-talent-2015-master\04-SPA\Project\Registar\Registar.DomainModel\bin\Debug\Registar.DomainModel.pdb
+D:\Downloads\svs-talent-2015-master\svs-talent-2015-master\04-SPA\Project\Registar\Registar.DomainModel\bin\Debug\EntityFramework.dll
+D:\Downloads\svs-talent-2015-master\svs-talent-2015-master\04-SPA\Project\Registar\Registar.DomainModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\svs-talent-2015-master\svs-talent-2015-master\04-SPA\Project\Registar\Registar.DomainModel\bin\Debug\EntityFramework.xml
+D:\Downloads\svs-talent-2015-master\svs-talent-2015-master\04-SPA\Project\Registar\Registar.DomainModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\svs-talent-2015-master\svs-talent-2015-master\04-SPA\Project\Registar\Registar.DomainModel\obj\Debug\Registar.DomainModel.dll
+D:\Downloads\svs-talent-2015-master\svs-talent-2015-master\04-SPA\Project\Registar\Registar.DomainModel\obj\Debug\Registar.DomainModel.pdb
